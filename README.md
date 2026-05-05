@@ -10,7 +10,9 @@ This project is a modern, animation-focused web application built using React, T
 
 <!-- Replace with your main full-page screenshot -->
 
-![Preview](Screenshot/Preview.png)
+## Preview
+
+![Preview](./Screenshot/screencapture-localhost-5173-2026-05-05-21_17_55%20(1).png)
 
 ---
 
