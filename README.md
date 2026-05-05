@@ -6,9 +6,7 @@ This project is a modern, animation-focused web application built using React, T
 
 
 
-## Preview
 
-<!-- Replace with your main full-page screenshot -->
 
 ## Preview
 
